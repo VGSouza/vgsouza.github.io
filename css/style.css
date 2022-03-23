@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+   }
+   
+   
+html,body{
+     height:100%;
+     font-family: 'Comfortaa', cursive;
+	line-height: 1.5
+}
+
+.foto{
+margin-top: 50px;     
+margin-left: 750px;
+}
+
+.foto>h1{
+     margin-left: -80px;
+}
+.foto>p{
+     margin-left: -300px;
+     font-size: 18px;
+}
+
+.cursos{
+     margin-top: 20px;
+     margin-left: 800px;
+}
+.cursos>p{
+     font-size: 18px;
+     margin-left: -320px;
+}
+
+.Senai{
+     margin-top: 20px;
+     margin-left: 545px;
+}
+.Senai>p{
+     font-size: 18px;
+     margin-left: -70px;
+}
